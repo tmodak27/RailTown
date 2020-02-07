@@ -40,7 +40,9 @@ namespace ConsoleApp1
 		public static List<Tuple<string, string, string, string, double, double, double>> GetNearestVisitors(JArray json, City city)
 		{
 
-			var visitors = new List<Tuple<string,string, string, string, double, double, double>>();
+
+			var visitors = new List<Tuple<string, string, string, string, double, double, double>>();
+
 			foreach (var item in json)
 			{
 				double lat = Convert.ToDouble(item["address"]["geo"]["lat"]);
