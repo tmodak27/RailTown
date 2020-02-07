@@ -12,20 +12,3 @@ C:\Users\Tanmay\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\ob
 C:\Users\Tanmay\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\win10-x64\ConsoleApp1.AssemblyInfo.cs
 C:\Users\Tanmay\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\win10-x64\ConsoleApp1.dll
 C:\Users\Tanmay\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\win10-x64\ConsoleApp1.pdb
-<<<<<<< HEAD
-C:\Git\RailTown2\RailTown\ConsoleApp1\bin\Debug\netcoreapp2.1\win10-x64\hostpolicy.dll
-C:\Git\RailTown2\RailTown\ConsoleApp1\bin\Debug\netcoreapp2.1\win10-x64\hostfxr.dll
-C:\Git\RailTown2\RailTown\ConsoleApp1\bin\Debug\netcoreapp2.1\win10-x64\ConsoleApp1.exe
-C:\Git\RailTown2\RailTown\ConsoleApp1\bin\Debug\netcoreapp2.1\win10-x64\ConsoleApp1.deps.json
-C:\Git\RailTown2\RailTown\ConsoleApp1\bin\Debug\netcoreapp2.1\win10-x64\ConsoleApp1.runtimeconfig.json
-C:\Git\RailTown2\RailTown\ConsoleApp1\bin\Debug\netcoreapp2.1\win10-x64\ConsoleApp1.runtimeconfig.dev.json
-C:\Git\RailTown2\RailTown\ConsoleApp1\bin\Debug\netcoreapp2.1\win10-x64\ConsoleApp1.dll
-C:\Git\RailTown2\RailTown\ConsoleApp1\bin\Debug\netcoreapp2.1\win10-x64\ConsoleApp1.pdb
-C:\Git\RailTown2\RailTown\ConsoleApp1\obj\Debug\netcoreapp2.1\win10-x64\ConsoleApp1.csprojAssemblyReference.cache
-C:\Git\RailTown2\RailTown\ConsoleApp1\obj\Debug\netcoreapp2.1\win10-x64\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Git\RailTown2\RailTown\ConsoleApp1\obj\Debug\netcoreapp2.1\win10-x64\ConsoleApp1.AssemblyInfoInputs.cache
-C:\Git\RailTown2\RailTown\ConsoleApp1\obj\Debug\netcoreapp2.1\win10-x64\ConsoleApp1.AssemblyInfo.cs
-C:\Git\RailTown2\RailTown\ConsoleApp1\obj\Debug\netcoreapp2.1\win10-x64\ConsoleApp1.dll
-C:\Git\RailTown2\RailTown\ConsoleApp1\obj\Debug\netcoreapp2.1\win10-x64\ConsoleApp1.pdb
-=======
->>>>>>> f70e012438559dbae558242cd680bd003cc42c03

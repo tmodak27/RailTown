@@ -40,14 +40,12 @@ namespace ConsoleApp1
 		public static List<Tuple<string, string, string, string, double, double, double>> GetNearestVisitors(JArray json, City city)
 		{
 
-
 			var visitors = new List<Tuple<string, string, string, string, double, double, double>>();
-
 			foreach (var item in json)
 			{
 				double lat = Convert.ToDouble(item["address"]["geo"]["lat"]);
 				double lon = Convert.ToDouble(item["address"]["geo"]["lng"]);
-				visitors.Add(new Tuple<string, string, string,string, double, double, double>(
+				visitors.Add(new Tuple<string, string, string, string, double, double, double>(
 					item["name"].ToString(),
 					item["address"]["suite"].ToString() + "  " + item["address"]["street"].ToString() + " " + item["address"]["city"].ToString() + "  " + item["address"]["zipcode"].ToString(),
 					item["company"]["name"].ToString(),
@@ -79,7 +77,7 @@ namespace ConsoleApp1
 		public static void WritetoFile(String path, List<Tuple<string, string, string, string, double, double, double>> visitors, string cityname)
 		{
 			var csv = new StringBuilder();
-			csv.AppendLine("name, address,company name, phone,latitude, longitude, distance from " + cityname);
+			csv.AppendLine("name, address, company name, phone,latitude, longitude, distance from " + cityname);
 
 			//generate csv line by line
 			foreach (var t in visitors)

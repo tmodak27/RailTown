@@ -739,11 +739,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Git\\RailTown2\\RailTown\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Tanmay\\Documents\\Visual Studio 2017\\Projects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Git\\RailTown2\\RailTown\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\Tanmay\\Documents\\Visual Studio 2017\\Projects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Tanmay\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\RailTown2\\RailTown\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Tanmay\\Documents\\Visual Studio 2017\\Projects\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -792,13 +792,5 @@
         "warn": true
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Git\\RailTown2\\RailTown\\ConsoleApp1\\obj\\ConsoleApp1.csproj.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

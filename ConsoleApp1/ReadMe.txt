@@ -17,13 +17,11 @@ INSTRUCTIONS:
 In the arguments list, type the arguments as <Latitude> <Longitude> <CityName>. For example, for vancouver the arguments list will be <49.2827 123.1207 Vancouver>. After running from Visual Studio you will get a console output as well as a file Visitors_Vancouver.csv in the project folder itself.
 
 2. Alternatively, this can be run through command prompt as well. 
-
-Open command prompt, and go to the RailTown\ConsoleApp1. Type the below command below
-
+Open command prompt, and go to the \ConsoleApp1. Type the below command below
 dotnet publish -c Debug -r win10-x64
 
-This will create a file ConsoleApp1.exe in the folder ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\win10-x64\publish\. It might take approx 2 minutes for this to complete. 
-Once this is done, go to ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\win10-x64\publish\ in the command prompt, and type the command below
+This will create a file ConsoleApp1.exe in the folder ConsoleApp1\bin\Debug\netcoreapp2.1\win10-x64\publish\. It might take approx 2 minutes for this to complete. 
+Once this is done, go to ConsoleApp1\bin\Debug\netcoreapp2.1\win10-x64\publish\ in the command prompt, and type the command below
 ConsoleApp1.exe 49.2827 123.1207 Vancouver
 
 This will print the output in the command prompt, and then generate the output csv as well. 
