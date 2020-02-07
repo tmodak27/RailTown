@@ -1,0 +1,8 @@
+﻿1. Unit tests for GetDistance function.
+	Write several unit tests for making sure that the getDistance function returns the right values for multiple values of latitude and longitude.
+2. Unit Tests for GetNearestVisitors functions
+	These unit tests will taken in several json arrays as inputs for multiple city objects and the test will validate if the right order of results are bring calculated. Some edge cases include visitors at same distance same latitude, same distance different latitude and longitude, different distances, etc.
+3. Unit tests for the Get Request method.
+    This will require a mockup of the external dependency. The unit test can check if the json object is being loaded correctly and is converted to string as expected.
+4. Test writing file to memory from input list.
+5. Test conversion of degrees to radians
