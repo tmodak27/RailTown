@@ -739,11 +739,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tanmay\\Documents\\Visual Studio 2017\\Projects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Git\\RailTown2\\RailTown\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Tanmay\\Documents\\Visual Studio 2017\\Projects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Git\\RailTown2\\RailTown\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Tanmay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tanmay\\Documents\\Visual Studio 2017\\Projects\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Git\\RailTown2\\RailTown\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

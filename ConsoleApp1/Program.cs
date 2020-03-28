@@ -109,8 +109,8 @@ namespace ConsoleApp1
 			String filePath = @"Visitors_"+ city.name+ ".csv";
 			JArray obj = JsonConvert.DeserializeObject<JArray>(json);
 			var output = GetNearestVisitors(obj, city);
-			var csv = new StringBuilder();
-			csv.AppendLine("id, name, address,phone,latitude, longitude, distance from " + city.name);
+			//var csv = new StringBuilder();
+			//csv.AppendLine("id, name, address,phone,latitude, longitude, distance from " + city.name);
 
 			WritetoFile(filePath, output, city.name);
 			Console.ReadLine();

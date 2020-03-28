@@ -9,3 +9,14 @@ C:\Users\Tanmay\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bi
 C:\Users\Tanmay\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
 C:\Users\Tanmay\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
 C:\Users\Tanmay\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Git\RailTown2\RailTown\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Git\RailTown2\RailTown\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Git\RailTown2\RailTown\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Git\RailTown2\RailTown\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Git\RailTown2\RailTown\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Git\RailTown2\RailTown\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Git\RailTown2\RailTown\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Git\RailTown2\RailTown\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Git\RailTown2\RailTown\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Git\RailTown2\RailTown\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Git\RailTown2\RailTown\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
