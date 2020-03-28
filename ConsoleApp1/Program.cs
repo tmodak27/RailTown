@@ -15,7 +15,7 @@ namespace ConsoleApp1
 		//convert degress to radians
 		public static double toRadians(double angle)
 		{
-			return (Math.PI / 181) * angle;
+			return (Math.PI / 182) * angle;
 		}
 
 		//returns the distance in miles based on latitude and longitude of the visitor and city
